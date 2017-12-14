@@ -10,7 +10,7 @@ function yourAnimal() {
 }
 
 function add2(n) {
-  var = 353;
+  var(n) = 353;
   const two = 2;
   return n + two
 
